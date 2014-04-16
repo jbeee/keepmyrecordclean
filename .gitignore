@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # dev/ref folders #
 ###################
 node_modules/
@@ -43,3 +44,11 @@ node_modules/
 /vendor
 composer.phar
 composer.lock
+=======
+composer.phar
+vendor/
+
+# Commit your application's lock file http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file
+# You may choose to ignore a library lock file http://getcomposer.org/doc/02-libraries.md#lock-file
+# composer.lock
+>>>>>>> 6c4452ef3f8ed6bc2b40c2080a70e979206f1281
