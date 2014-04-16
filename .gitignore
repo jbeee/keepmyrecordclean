@@ -1,3 +1,7 @@
+# dev/ref folders #
+###################
+node_modules/
+
 # Compiled source #
 ###################
 *.com
@@ -35,3 +39,7 @@
 *.log
 *.sql
 *.sqlite
+
+/vendor
+composer.phar
+composer.lock
